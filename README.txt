@@ -7,3 +7,7 @@ Read this before installing:
 3. Have fun.
 
 Note: This is a "no-bloat" pack designed to be highly customizable. If you encounter bugs, please revert your own tweaks or re-install the pack from scratch.
+
+official modrinth page (under review): https://modrinth.com/project/BhvY1lXm
+
+https://modrinth.com/modpack/create-simply-optimized
