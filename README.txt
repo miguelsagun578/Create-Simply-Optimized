@@ -1,3 +1,5 @@
+This Repo is cancelled, please download latest version via Modrinth ;)
+
 # Performance-Optimized Create Modpack (1.21.1 NeoForge)
 
 Read this before installing:
@@ -8,6 +10,6 @@ Read this before installing:
 
 Note: This is a "no-bloat" pack designed to be highly customizable. If you encounter bugs, please revert your own tweaks or re-install the pack from scratch.
 
-official modrinth page (under review): https://modrinth.com/project/BhvY1lXm
+official modrinth page: https://modrinth.com/project/BhvY1lXm
 
 https://modrinth.com/modpack/create-simply-optimized
